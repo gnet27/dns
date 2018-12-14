@@ -1,0 +1,1 @@
+document.cookie = "password=press gp"
